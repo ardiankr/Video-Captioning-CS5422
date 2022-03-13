@@ -1,6 +1,6 @@
 # Video-Captioning-CS5422
 Automatic video captioning, a final project for CS5422 Neural Networks and Deep Learning.
-This project uses neural network to produce a simple fixed 3-words caption (<noun> <verb> <noun>) for each sequence of video frames.
+This project uses neural network to produce a simple fixed 3-words caption (\<noun\> \<verb\> \<noun\>) for each sequence of video frames.
 
 ## Neural network architecture
 The neural network is composed of 4 main components:
